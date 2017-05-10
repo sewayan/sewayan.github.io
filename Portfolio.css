@@ -64,7 +64,7 @@ div.about p { /*if not defined seperately, 'p' will be proprtionally smaller in 
 }
 /*---------------------------*/
 
-/* ---- Only on "Technologies" --- */
+/* ---- on "Technologies" & Mail --- */
 
 #technologies{ /* -> div id="technologies" */
 	color: #e6e6e6;
@@ -76,8 +76,20 @@ div.about p { /*if not defined seperately, 'p' will be proprtionally smaller in 
 }
 /*---------------------------*/
 
-div.links{
-	font-size: 15px;
+/* ---- Only on "Links" --- */
+
+#linkedsites{ /* -> div id="linkedsites" */
+	color: #e6e6e6;
+	font-size: 20px;
+	word-spacing: 4px;
+	margin: 15px 10px 10px 10px;
+	padding: 15px;
+	border: 2px white solid;
+}
+/*---------------------------*/
+
+div.links{ /* properties of all links */
+	font-size: 20px;
 	height: 10px;
 	width: 10px;
 	color: white;
