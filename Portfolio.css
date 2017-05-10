@@ -3,14 +3,16 @@ body {
 	font-family: 'Abril Fatface', cursive;
 }
 
-/* ---- Only on "Home" --- */
+/* ---- Logo centered; Only on "Home" --- */
 img {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  margin-top: 10%;
 }
 /*---------------------------*/
 
+/* ---- Navigationbar --- */
 nav ul { /* navi list */
 	list-style-type: none; /*Removing the bullet points from list*/
 	margin: 10px;	
@@ -39,6 +41,12 @@ nav li a { /* list item highlighting */
 nav li a:hover { /* func changing bckgrnd color to grey when cursor hovers over*/
 	background-color: grey; 
 }
+
+nav li a.current{ /* keeps selected link in navbar higlighted */
+	background: grey;
+	color: #ffffff;
+}
+/*---------------------------*/
 
 /* ---- Only on "About", Text --- */
 
