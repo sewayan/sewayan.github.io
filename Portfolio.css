@@ -51,7 +51,7 @@ nav li a.current{ /* keeps selected link in navbar higlighted */
 /* ---- Only on "About", Text --- */
 
 div.about{ /* check for spelling on html e.g. caps! */
-	color: #e6e6e6;
+	color: #bfbfbf;
 	font-size: 15px;
 	word-spacing: 4px;
 	margin: 15px 10px 10px 10px;
@@ -67,7 +67,7 @@ div.about p { /*if not defined seperately, 'p' will be proprtionally smaller in 
 /* ---- on "Technologies" & Mail --- */
 
 #technologies{ /* -> div id="technologies" */
-	color: #e6e6e6;
+	color: #bfbfbf;
 	font-size: 10px;
 	word-spacing: 4px;
 	margin: 15px 10px 10px 10px;
@@ -79,7 +79,7 @@ div.about p { /*if not defined seperately, 'p' will be proprtionally smaller in 
 /* ---- Only on "Links" --- */
 
 #linkedsites{ /* -> div id="linkedsites" */
-	color: #e6e6e6;
+	color: #bfbfbf;
 	font-size: 20px;
 	word-spacing: 4px;
 	margin: 15px 10px 10px 10px;
@@ -92,7 +92,7 @@ div.links{ /* properties of all links */
 	font-size: 20px;
 	height: 10px;
 	width: 10px;
-	color: white;
+	color: #bfbfbf;
     text-align: center; 
     text-decoration: underline;
     display:inline;
