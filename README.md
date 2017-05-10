@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+	<head>
+		
+		<meta charset="utf-8">
+		<link rel="stylesheet" type="text/css" href="Portfolio.css">
+			<!--Font  "Abril Fatface" -->
+		<link href="https://fonts.googleapis.com/css?family=Abril+Fatface" rel="stylesheet"> 
 
-You can use the [editor on GitHub](https://github.com/sewayan/Learning_FrontEndDev/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+			<title>//Sebastian Wayan//</title>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+	</head>
+	
+	<body>
+		<!-- Navigationbar -->
+		<nav>
+			<ul>
+		<!--link to 'About'-section -->	
+				<li> <a class="current" href="Home.html">Home </a> </li>
+				<li> <a href="About.html">About </a> </li>
+				<li> <a href="Technologies.html">Technologies </a> </li>
+				<li> <a href="Links.html"> Links </a> </li>
+				<li> <a href="Contact.html"> Contact </a> </li>
+			</ul>
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+		</nav>
 
-```markdown
-Syntax highlighted code block
+		<!--Logo "Home" -->
+		<img src="Placeholder_Logo.png" alt="Logo">
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+	</body>
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sewayan/Learning_FrontEndDev/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</html>
