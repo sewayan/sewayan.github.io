@@ -1,2 +1,35 @@
-# sewayan.github.io
-Website
+<!DOCTYPE html>
+<html>
+	<head>
+		
+		<meta charset="utf-8">
+		<link rel="stylesheet" type="text/css" href="Portfolio.css">
+			<!--Font  "Abril Fatface" -->
+		<link href="https://fonts.googleapis.com/css?family=Abril+Fatface" rel="stylesheet"> 
+
+			<title>//Sebastian Wayan//</title>
+
+	</head>
+	
+	<body>
+		<!-- Navigationbar -->
+		<nav>
+			<ul>
+		<!--link to 'About'-section -->	
+				<li> <a class="current" href="Home.html">Home </a> </li>
+				<li> <a href="About.html">About </a> </li>
+				<li> <a href="Technologies.html">Technologies </a> </li>
+				<li> <a href="Links.html"> Links </a> </li>
+				<li> <a href="Contact.html"> Contact </a> </li>
+			</ul>
+
+
+		</nav>
+
+		<!--Logo "Home" -->
+		<img src="Placeholder_Logo.png" alt="Logo">
+
+
+	</body>
+
+</html>
