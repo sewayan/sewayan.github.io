@@ -59,14 +59,12 @@ div.about{ /* check for spelling on html e.g. caps! */
 	border: 2px white solid;
 }
 
-div.about p { /*if not defined seperately, 'p' will be proprtionally smaller in regards to 'h1' */
-	font-size: 15px;
-}
 /*---------------------------*/
 
 /* ---- on "Technologies" & Mail --- */
-
-#technologies{ /* -> div id="technologies" */
+/* -> div class="technologies", id's -> only one element(on html)*/
+/* -> id's for controlling/indivualizing one element (on html) */
+div.technologies{ 
 	color: #bfbfbf;
 	font-size: 10px;
 	word-spacing: 4px;
@@ -78,7 +76,7 @@ div.about p { /*if not defined seperately, 'p' will be proprtionally smaller in 
 
 /* ---- Only on "Links" --- */
 
-#linkedsites{ /* -> div id="linkedsites" */
+div.linkedsites{ /* -> div id="linkedsites" */
 	color: #bfbfbf;
 	font-size: 20px;
 	word-spacing: 4px;
