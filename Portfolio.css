@@ -95,4 +95,23 @@ div.links{ /* properties of all links */
     text-decoration: underline;
     display:inline;
 }
+ .updates{
+	color: #bfbfbf;
+	font-size: 25px;
+	word-spacing: 4px;
+ }
 
+ img{
+ 	max-width: 50%;
+ 	height: auto;
+ 	margin: 0px;
+ 	float: left;
+ }
+
+ .updates_img-desc{
+ 	color: #bfbfbf;
+	font-size: 15px;
+	margin: 0 0 10px 10px;
+	word-spacing: 4px;
+	display: block;
+ }
