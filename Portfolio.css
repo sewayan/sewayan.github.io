@@ -101,7 +101,7 @@ div.links{ /* properties of all links */
 	word-spacing: 4px;
  }
 
- img{
+ img[src="Inspect.png"]{ /* img in tab 'Updates' */
  	max-width: 50%;
  	height: auto;
  	margin: 0px;
